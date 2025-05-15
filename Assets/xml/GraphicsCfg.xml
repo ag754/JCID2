@@ -1,0 +1,29 @@
+<GraphicsConfiguration>
+  
+  <TileData>
+    <!-- Ideal screen resolution to draw to. -->
+    <Resolution type="default">
+      <width>1280</width>
+      <height>800</height>
+    </Resolution>
+        
+    <!-- Target screen resolution to draw to -->
+    <!-- This typically matches the window size, 
+          but could be less if trying to draw to a smaller viewport -->
+    <Resolution type="target">
+      <width>1280</width>
+      <height>800</height>
+    </Resolution>
+        
+    <!-- Ideal tile resolution -->
+    <Resolution type="tile">
+      <width>16</width>
+      <height>16</height>
+    </Resolution>
+  </TileData>
+
+  <SpriteData>
+    
+  </SpriteData>
+  
+</GraphicsConfiguration>

@@ -1,0 +1,36 @@
+<KeyMap>
+
+<input type="single">
+    <key>265</key>
+    <action mimicRepeat="true">1</action>
+    <event preset="0">1</event>
+</input>
+
+<input type="single">
+    <key>264</key>
+    <action mimicRepeat="true">1</action>
+    <event preset="1">1</event>
+</input>
+
+<input type="single">
+    <key>263</key>
+    <action mimicRepeat="true">1</action>
+    <event preset="2">1</event>
+</input>
+
+<input type="single">
+    <key>262</key>
+    <action mimicRepeat="true">1</action>
+    <event preset="3">1</event>
+</input>
+
+<input type="combo">
+    <key>265</key>
+    <action mimicRepeat="true">1</action>
+    <event preset="0">2</event>
+    <shift>true</shift>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+</input>
+
+</KeyMap>

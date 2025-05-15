@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Options>
+    <Window>
+        <width>1920</width>
+        <height>1080</height>
+        <title>Game</title>
+        <resize>false</resize>
+        <vsync>true</vsync>
+    </Window>
+    <Graphics>
+        <Lib name="OpenGL">
+            <version major="4" minor="5"/>
+        </Lib>
+    </Graphics>
+</Options>
